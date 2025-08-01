@@ -1,0 +1,4 @@
+.env
+.venv
+demo.db
+dev.db
